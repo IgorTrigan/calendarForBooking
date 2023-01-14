@@ -1,0 +1,24 @@
+.time_book_btn {
+  height: 40px;
+  width: 158px;
+  padding: 0;
+
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  color: #606060;
+
+  border-radius: 4px;
+  background: #f3f2f1;
+}
+
+.selectedTime {
+  background-color: #70c05b;
+  color: #fff;
+}
+
+.alreadyBookedTime {
+  background-color: #c62d12;
+  color: #fff;
+  cursor: default;
+}

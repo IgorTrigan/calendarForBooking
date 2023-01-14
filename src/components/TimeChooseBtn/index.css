@@ -1,0 +1,7 @@
+.time_book {
+  height: 97px;
+  width: 326px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 10px;
+}

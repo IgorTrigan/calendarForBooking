@@ -1,0 +1,22 @@
+.month_btn {
+  display: flex;
+  justify-content: space-between;
+  width: 80px;
+}
+.month_btn button {
+  width: 32px;
+  height: 32px;
+
+  padding: 0;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  color: inherit;
+  background-color: transparent;
+}
+.month_btn-left {
+  background-image: url(../../assets/arrowLeft.svg);
+}
+.month_btn-right {
+  background-image: url(../../assets/arrowRight.svg);
+}

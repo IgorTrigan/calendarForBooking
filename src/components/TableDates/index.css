@@ -1,0 +1,31 @@
+.day_title {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Rubik';
+  font-size: 18px;
+  line-height: 0;
+}
+
+.table_dates {
+  height: 242px;
+}
+
+.week-row {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -10px;
+  margin-right: -8px;
+}
+
+p.empty_date {
+  width: 40px;
+  height: 40px;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Rubik';
+  font-size: 18px;
+  color: #8f8f8f;
+}
